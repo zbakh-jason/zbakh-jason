@@ -1,6 +1,5 @@
 # Jason ZBAKH
 ### Data Analyst | Consultant Data & IoT
-📍 **Strasbourg, France**
 
 > *"De l'infrastructure physique à l'intelligence numérique : une vision complète de la donnée."*
 
