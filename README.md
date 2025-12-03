@@ -69,30 +69,13 @@ Mon cursus reflète une montée en compétence constante, du hardware (électron
 
 ---
 
-## 📂 Portfolio de Projets
+## 📂 Parcours Data Analyst - Projets Réalisés
 
-Sélection de projets illustrant ma capacité à gérer le cycle de vie de la donnée, de l'extraction à la valorisation.
+Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification Data Analyst (Niveau 6 - Bac+3/4) dispensée par OpenClassrooms.
 
-### 🔹 [Projet 10 : Algorithme de détection (Machine Learning)](./Formation%20Data%20analyst/Projet_10_Detection_Faux_Billets/)
-*Contexte : Lutte contre la fraude & Contrôle Qualité.*
-* **Objectif :** Développer un modèle prédictif pour identifier automatiquement les anomalies (faux billets) à partir de dimensions géométriques.
-* **Méthodes :** Régression logistique, K-means.
-* **Lien métier :** Transposable à la détection de défauts sur des pièces industrielles via des capteurs.
+Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive en Machine Learning.
 
-### 🔹 [Projet 9 : Analyse Stratégique Internationale](./Formation%20Data%20analyst/Projet_09_Etude_Marche/)
-*Contexte : Développement commercial & Export.*
-* **Objectif :** Identifier les marchés à fort potentiel pour une entreprise agroalimentaire (Données FAO).
-* **Méthodes :** Nettoyage de données (Data Cleaning), Clustering (Classification Ascendante Hiérarchique), ACP.
-
-### 🔹 [Projet 8 : Dashboard Décisionnel (Business Intelligence)](./Formation%20Data%20analyst/Projet_08_Dashboard_PowerBI/)
-*Contexte : Reporting & Indicateurs de performance (KPI).*
-* **Objectif :** Concevoir un tableau de bord interactif pour piloter des indicateurs sociaux complexes (Éducation Nationale).
-* **Méthodes :** Storytelling de la donnée, Design UX/UI, Mesures DAX.
-
-### 🔹 [Projet 3 : Architecture de Données (SQL)](./Formation%20Data%20analyst/Projet_03_Base_Donnees_SQL/)
-*Contexte : Gestion de l'information.*
-* **Objectif :** Modéliser et créer une base de données relationnelle sécurisée pour une agence immobilière.
-* **Méthodes :** Modèle Conceptuel de Données (MCD), Requêtes SQL complexes.
+[Portfolio de Projets](./Formation-Data-Analyst/)
 
 ---
 
