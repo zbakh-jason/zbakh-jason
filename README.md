@@ -75,7 +75,7 @@ Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre
 
 Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive en Machine Learning.
 
-[Portfolio de Projets](./Formation-Data-Analyst/)
+### [Portfolio de Projets](https://github.com/zbakh-jason/Formation-Data-Analyst/)
 
 ---
 
