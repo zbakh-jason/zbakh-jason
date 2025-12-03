@@ -69,13 +69,13 @@ Mon cursus reflète une montée en compétence constante, du hardware (électron
 
 ---
 
-## 📂 Parcours Data Analyst - Projets Réalisés
+## 📂 Parcours Data Analyst 
 
 Ce répertoire regroupe les projets professionnalisants réalisés dans le cadre de ma certification Data Analyst (Niveau 6 - Bac+3/4) dispensée par OpenClassrooms.
 
 Chaque projet simule une situation réelle en entreprise, couvrant le cycle complet de la donnée : de l'architecture SQL à la modélisation prédictive en Machine Learning.
 
-### [Portfolio de Projets](https://github.com/zbakh-jason/Formation-Data-Analyst/)
+### [Portfolio - Projets Réalisés](https://github.com/zbakh-jason/Formation-Data-Analyst/)
 
 ---
 
