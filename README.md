@@ -18,8 +18,8 @@ Mettre mon expertise au service de votre innovation.
 
 | Pôle | Outils & Méthodes |
 | :--- | :--- |
-| **Langages** | **Python** (Pandas, NumPy, Scikit-learn), **SQL** |
-| **Data Viz & BI** | **Power BI** (DAX, Power Query), Matplotlib, Seaborn |
+| **Langages** | **Python**, **SQL** |
+| **Data Visualization** | **Power BI**, Matplotlib, Seaborn |
 | **Analyse** | Statistiques descriptives, Nettoyage de données (ETL), Séries temporelles |
 | **Machine Learning** | Algorithmes de classification (K-Means, CAH), Régression, ACP |
 | **Gestion de Projet** | Méthodes Agiles, GitHub, Veille technologique |
@@ -42,7 +42,7 @@ Je connais la réalité du "terrain" et je maîtrise les outils (**Python, SQL, 
 
 ---
 
-## 🔄 Compétences générales (Soft Skills)
+## 🔄 Compétences Générales (Soft Skills)
 
 * **Gestion de projet & Coordination :** Planification en coordination avec différents intervenants, gestion des imprévus.
 * **Relation Client & Pédagogie :** Traduire des besoins complexes en solutions techniques claires.
