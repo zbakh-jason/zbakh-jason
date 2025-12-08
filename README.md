@@ -9,7 +9,7 @@
 
 Mettre mon expertise au service de votre innovation.
 
-* [Lien vers mon LinkedIn](https://www.linkedin.com/in/jason-zbakh)
+* [LinkedIn](https://www.linkedin.com/in/jason-zbakh)
 * [Email](mailto:zbakh.jason.fed1@gmail.com)
 
 ---
