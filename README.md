@@ -7,8 +7,6 @@
 
 ### 📫 Contact
 
-Mettre mon expertise au service de votre innovation.
-
 * [LinkedIn](https://www.linkedin.com/in/jason-zbakh)
 * [Email](mailto:zbakh.jason.fed1@gmail.com)
 
