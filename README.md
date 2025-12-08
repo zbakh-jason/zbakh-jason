@@ -1,10 +1,6 @@
 # Jason ZBAKH
 ### Data Analyst | Consultant Data & IoT
 
-> *"De l'infrastructure physique à l'intelligence numérique"*
-
----
-
 ### 📫 Contact
 
 * [LinkedIn](https://www.linkedin.com/in/jason-zbakh)
@@ -34,6 +30,8 @@ Découvrez les projets qui m'ont permis d'acquérir mes compétences :
 ---
 
 ## 📝 Présentation
+
+> *"De l'infrastructure physique à l'intelligence numérique"*
 
 Spécialisé en domotique et automatismes, j'ai piloté l'installation de systèmes interconnectés (IoT) pour le particulier et l'industrie, géré la relation client et encadré des équipes techniques. 
 Je connais la réalité du "terrain" et je maîtrise les outils (**Python, SQL, Machine Learning**) pour transformer des données brutes en leviers de performance stratégique.
