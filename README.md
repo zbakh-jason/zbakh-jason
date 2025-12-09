@@ -29,6 +29,14 @@ Découvrez les projets qui m'ont permis d'acquérir mes compétences :
 
 ---
 
+## 🛬 Candidature Aéroworld
+
+Explorez les livrables rédigés pour le recrutement :
+
+### [Candidature Aéroworld - Livrables](https://github.com/zbakh-jason/Candidature_Aéroworld/)
+
+---
+
 ## 📝 Présentation
 
 > *"De l'infrastructure physique à l'intelligence numérique"*
