@@ -29,11 +29,11 @@ Découvrez les projets qui m'ont permis d'acquérir mes compétences :
 
 ---
 
-## 🛬 Candidature Aéroworld
+## 🛬 Candidature Aéroworld - Chef de Projet Data
 
 Explorez les livrables rédigés pour le recrutement :
 
-### [Candidature Aéroworld - Livrables](https://github.com/zbakh-jason/Candidature_Aéroworld/)
+### [Candidature Aéroworld - Livrables](https://github.com/zbakh-jason/Candidature_Aeroworld/)
 
 ---
 
